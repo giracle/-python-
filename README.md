@@ -5,4 +5,4 @@ python版本：3.7
     backup/dlt
     backup/ssq
     picture
-    
+可能需要安装相关的库
